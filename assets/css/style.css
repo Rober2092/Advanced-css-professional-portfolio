@@ -486,7 +486,7 @@ footer a {
   }
 
   /* Change image attachment to scroll to avoid following the image */
-  /* This partially works on android phones tested, it does not work in IO's as of December 13, 2020 */
+  /* This partially works on android phones tested, it does not work in IO's as of  2022 */
   .hero {
     background-attachment: scroll;
   }
